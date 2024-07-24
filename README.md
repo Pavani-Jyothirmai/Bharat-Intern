@@ -13,12 +13,10 @@ During my internship, I developed two web applications:
 - [Netflix Homepage](#netflix-homepage)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
-  - [Setup Instructions](#setup-instructions)
 - [Temperature Converter](#temperature-converter)
   - [Features](#features-1)
   - [Technologies Used](#technologies-used-1)
-  - [Setup Instructions](#setup-instructions-1)
-- [License](#license)
+
 
 ## Netflix Homepage
 
